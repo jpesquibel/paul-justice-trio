@@ -51,7 +51,6 @@ body {
                 color: black;
                 font-size: 1.1em;
                 background-color: white;
-                // background-color: #ACCEF7;
             }
         }       
     }
@@ -87,10 +86,6 @@ body {
             display:flex;
             justify-content: center;
         }
-        img {
-            width: 70%;
-            height: 100%;
-        }
     }
 }
 //not small
@@ -105,9 +100,9 @@ body {
             bottom: 8.5em;
             margin-left: 3em;
             margin-right: 3em;
-            span {
-                font-size: 15px;            
-            }
+            // span {
+            //     font-size: 15px;            
+            // }
         }        
     }
 }
@@ -147,9 +142,9 @@ body {
             .dash {
                 display: inline-block;
             }
-            span {
-                font-size: 15px;            
-            }
+            // span {
+            //     font-size: 15px;            
+            // }
         }         
     }
 }
